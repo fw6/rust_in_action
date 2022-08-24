@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "mandelbrot",
+    "grep_lite",
+
+    "composite_data_types"
+]
