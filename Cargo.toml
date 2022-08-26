@@ -3,5 +3,6 @@ members = [
     "mandelbrot",
     "grep_lite",
 
-    "composite_data_types"
+    "composite_data_types",
+    "globalerror"
 ]
