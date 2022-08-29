@@ -4,5 +4,6 @@ members = [
     "grep_lite",
 
     "composite_data_types",
-    "globalerror"
+    "globalerror",
+    "parse_log"
 ]

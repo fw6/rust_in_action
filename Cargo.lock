@@ -82,6 +82,9 @@ dependencies = [
 [[package]]
 name = "composite_data_types"
 version = "0.1.0"
+dependencies = [
+ "rand",
+]
 
 [[package]]
 name = "getrandom"
@@ -246,6 +249,10 @@ name = "os_str_bytes"
 version = "6.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "9ff7415e9ae3fff1225851df9e0d9e4e5479f947619774677a63572e55e80eff"
+
+[[package]]
+name = "parse_log"
+version = "0.1.0"
 
 [[package]]
 name = "ppv-lite86"
